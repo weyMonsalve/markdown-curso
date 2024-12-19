@@ -98,7 +98,7 @@ print(hello world)
 
 <!--GITHUB MARKDOWN-->
 
-*[X] TAREA 1 <!--la X significa TO DO-->
-*[] TAREA 2 <!--tarea no esta realiada-->
-*[] TAREA 3
-*[] TAREA 4
+* [X] TAREA 1 <!--la X significa TO DO-->
+* [] TAREA 2 <!--tarea no esta realiada-->
+* [] TAREA 3
+* [] TAREA 4
